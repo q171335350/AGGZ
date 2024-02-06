@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202402062220
+! Version: 202402070015
 ! Title: 番茄小说广告拦截规则
 ! Homepage:https://github.com/q171335350/AGGZ
 
