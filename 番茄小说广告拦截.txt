@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 202402070015
 ! Title: 番茄小说广告拦截
-! Homepage:https://github.com/q171335350/AGGZ
+! Homepage:https://github.com/yhywk/AdLJ
 
 ||polaris3-normal-lf.zijieapi^
 ||ads3-normal-lf.zijieapi.com^
