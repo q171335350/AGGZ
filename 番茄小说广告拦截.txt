@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 202402062220
-! Title: 番茄小说去广告规则
+! Title: 番茄小说广告拦截规则
 ! Homepage:https://github.com/q171335350/AGGZ
 
 ||polaris3-normal-lf.zijieapi^
