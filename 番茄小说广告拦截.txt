@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202402070015
+! Version: 202402091445
 ! Title: 番茄小说广告拦截
 ! Homepage:https://github.com/yhywk/AdLJ
 
